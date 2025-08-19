@@ -1,2 +1,2 @@
 # verbose-engine
-strating with github
+starting with github
